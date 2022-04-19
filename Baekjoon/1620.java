@@ -27,7 +27,7 @@ class Main {
             map.put(number, name);
         }
         
-        // 문제 맞추기 - 이름인 경우, key로 숫자인 경우, value로 찾기 (m번 반복)
+        // 문제 맞추기
         for (int i = 0; i < m; i++) {
             String quiz = br.readLine();
             
